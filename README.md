@@ -63,7 +63,6 @@ Train Tracks Photo https://unsplash.com/@reddangelo16
 
 <hr>
 
-This project was developed by **Onkgopotse Lenake (aka: OLenake)**, the Community Manager at [VisionDream](http://bit.ly/izzydoesizzygithub) as a fun side project.
 This project was developed by **Onkgopotse Lenake (aka: OLenake)**, the Community Manager at [VisionDream](https://github.com/VisionDream) as a fun side project.
 
 Come say hi on Twitter [@O_Lenake](http://www.twitter.com/O_Lenake)! 
